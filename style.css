@@ -8,10 +8,14 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: #850505;
+}
+
 p {
   color: #E9E351;
   border: 2px solid #0A3F08;
   border-radius: 5px;
   padding: 5px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(80, 108, 0, 0.5) 10% 90%, rgba(0, 0, 0, 0.1));
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(80, 108, 0, 0.75) 10% 90%, rgba(0, 0, 0, 0.1));
 }
