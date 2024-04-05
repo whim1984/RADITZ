@@ -7,3 +7,7 @@ h1 {
   color: #850505;
   text-align: center;
 }
+
+p {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(217, 217, 217, 1), rgba(0, 0, 0, 0));
+}
