@@ -21,6 +21,17 @@ p {
 }
 
 dl {
-  border: 2px solid #E9E351;
+  border: 5px solid #E9E351;
   padding: 5px;
+  background: #F00F;
+  color:#E9E351;
+}
+
+dt {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+dd {
+  font-style: italic
 }
